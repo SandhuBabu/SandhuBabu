@@ -20,10 +20,10 @@ I'm always eager to expand my knowledge, and currently, I'm focused on enhancing
 
 Here are some of my notable projects:
 
-- [Shopping Cart](https://github.com/SandhuBabu/OnlineShoppingNodeJs)):This is a basic online shopping cart that users can buy product and pay online.
+- [Shopping Cart](https://github.com/SandhuBabu/OnlineShoppingNodeJs):This is a basic online shopping cart that users can buy product and pay online.
 I used technologies like NodeJs, Expressjs, Handlerbas, MySQL and Razorpay payment gateway to build it.
 - [Crowdfunding Web3](https://github.com/SandhuBabu/crowdfund): It is an online platform to  find funding for a purpose. In this project ETH is used as currency. I used ReactJs, Web3js and Solidity for smartcontracts to build this entire project. 
-- [Employee System](https://github.com/SandhuBabu/spring-boot-react-employee-system)): This is a very basic full stack web application built with Java Spring Boot for backend and ReactJs for frontend.
+- [Employee System](https://github.com/SandhuBabu/spring-boot-react-employee-system): This is a very basic full stack web application built with Java Spring Boot for backend and ReactJs for frontend.
 
 ## 🤝 Let's Connect
 
