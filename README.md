@@ -29,7 +29,7 @@ I used technologies like NodeJs, Expressjs, Handlerbas, MySQL and Razorpay payme
 
 Feel free to connect with me and explore my work on other platforms:
 
-- 🌐 Website: [[sandhubabu](https://yourwebsite.com](https://react-portfolio-one-teal.vercel.app/)
+- 🌐 Website: [sandhubabu](https://yourwebsite.com](https://react-portfolio-one-teal.vercel.app/)
 - 📧 Email: sandhubabu704@email.com
 - 🐦 Twitter: [@sandhubabu_](https://x.com/sandhubabu_)
 - 💼 LinkedIn: [Sandhu Babu](https://www.linkedin.com/in/sandhu-babu)
