@@ -52,6 +52,6 @@ I'm always open to collaboration and interesting conversations. Don't hesitate t
 [![GitHub stars](https://img.shields.io/github/stars/SandhuBabu?style=social)](https://github.com/SandhuBabu)
 [![GitHub forks](https://img.shields.io/github/forks/JSandhuBabu?style=social)](https://github.com/SandhuBabu)
 [![GitHub issues](https://img.shields.io/github/issues/SandhuBabu)](https://github.com/SandhuBabu/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/SandhuBabu)](https://github.com/SandhuBabu/commits/master)
+[![GitHub last commit](https://img.shields.io/github/last-commit/SandhuBabu)](https://github.com/SandhuBabu/commits/main)
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you
