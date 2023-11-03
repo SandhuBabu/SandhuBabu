@@ -48,10 +48,10 @@ I'm always open to collaboration and interesting conversations. Don't hesitate t
 
 ## 🛡️ GitHub Badges
 
-[![GitHub followers](https://img.shields.io/github/followers/JESNA-JOY?style=social)](https://github.com/JESNA-JOY)
-[![GitHub stars](https://img.shields.io/github/stars/JESNA-JOY?style=social)](https://github.com/JESNA-JOY)
-[![GitHub forks](https://img.shields.io/github/forks/JESNA-JOY?style=social)](https://github.com/JESNA-JOY)
-[![GitHub issues](https://img.shields.io/github/issues/JESNA-JOY)](https://github.com/JESNA-JOY/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/JESNA-JOY)](https://github.com/JESNA-JOY/commits/master)
+[![GitHub followers](https://img.shields.io/github/followers/SandhuBabu?style=social)](https://github.com/SandhuBabu)
+[![GitHub stars](https://img.shields.io/github/stars/SandhuBabu?style=social)](https://github.com/SandhuBabu)
+[![GitHub forks](https://img.shields.io/github/forks/JSandhuBabu?style=social)](https://github.com/SandhuBabu)
+[![GitHub issues](https://img.shields.io/github/issues/SandhuBabu)](https://github.com/SandhuBabu/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/SandhuBabu)](https://github.com/SandhuBabu/commits/master)
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you
