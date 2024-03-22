@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm a passionate developer constantly exploring an
 ## 🔧 Technologies & Tools
 
 - Programming Languages: Python, JavaScript, Java
-- Web Development: HTML, CSS, ReactJs, NodeJs, CSS3, SCSS, Tailwind CSS, Bootstrap, DaisyUI
+- Web Development: HTML, CSS, ReactJs, VueJS NodeJs, CSS3, SCSS, Tailwind CSS, Bootstrap, DaisyUI
 - Databases: MySQL, PostgreSQL MongoDB
 - Version Control: Git
 - IDE: VS Code, IntelliJ IDEA
